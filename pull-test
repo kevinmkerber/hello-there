@@ -6,3 +6,5 @@ Changed again! WTF?
 
 
 Hmm, didn't seem to work in terms of "git pull" lets try again
+
+git pull brought in changes, but git status showed no changes, maybe this will work?
