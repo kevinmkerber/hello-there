@@ -12,3 +12,5 @@ git pull brought in changes, but git status showed no changes, maybe this will w
 we are going to try to stage and unstage a change with git
 
 one more thing
+
+here I'm going to try git diff
